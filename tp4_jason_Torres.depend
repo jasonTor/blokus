@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1675984330 source:c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\main.cpp
+	<iostream>
+	<vector>
+	<set>
+	<initializer_list>
+	<map>
+	"couleur.h"
+	"piece.h"
+	"coordonnees.h"
+	"pieces_set.h"
+	"placement.h"
+	"board.h"
+	"transformation.h"
+	"text_interface.h"
+	"game.h"
+	"transformation.h"
+
+1675984537 source:c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\piece.cpp
+	"piece.h"
+
+1675984441 c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\piece.h
+	"coordonnees.h"
+	<vector>
+
+1675964218 source:c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\coordonnees.cpp
+	"coordonnees.h"
+	"transformation.h"
+
+1675964218 c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\coordonnees.h
+	<set>
+	"transformation.h"
+
+1675813521 c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\transformation.h
+	<array>
+	<vector>
+
+1675985225 source:c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\pieces_set.cpp
+	<iostream>
+	"pieces_set.h"
+	"coordonnees.h"
+
+1675985225 c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\pieces_set.h
+	"piece.h"
+	<set>
+
+1676213952 source:c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\placement.cpp
+	<iostream>
+	"coordonnees.h"
+	"placement.h"
+	"board.h"
+	"piece.h"
+
+1675891502 c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\couleur.h
+	<iostream>
+	<ostream>
+
+1676213952 c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\placement.h
+	"transformation.h"
+	"couleur.h"
+	"coordonnees.h"
+	"piece.h"
+
+1676213886 source:c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\board.cpp
+	<iostream>
+	"board.h"
+	"couleur.h"
+	"coordonnees.h"
+	"placement.h"
+	"transformation.h"
+
+1676214088 c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\board.h
+	<string>
+	"couleur.h"
+	"coordonnees.h"
+	"placement.h"
+	"pieces_set.h"
+
+1675613904 source:c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\transformation.cpp
+	"transformation.h"
+
+1676214059 source:c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\player.cpp
+	"player.h"
+
+1676214048 c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\player.h
+	<string>
+	<vector>
+	"piece.h"
+	"pieces_set.h"
+	"couleur.h"
+
+1676394897 source:c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\game.cpp
+	<iostream>
+	"game.h"
+	"placement.h"
+	"coordonnees.h"
+
+1676214117 c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\game.h
+	"board.h"
+	"player.h"
+	"text_interface.h"
+
+1675868673 source:c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\text_interface.cpp
+	<limits>
+	<iomanip>
+	<array>
+	<vector>
+	<algorithm>
+	<numeric>
+	<locale>
+	<codecvt>
+	"text_interface.h"
+	"board.h"
+	<limits>
+	<iomanip>
+	<array>
+	<vector>
+	<algorithm>
+	<numeric>
+	"text_interface.h"
+	"board.h"
+
+1675772821 c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\text_interface.h
+	<ostream>
+	<array>
+	"user_interface.h"
+	"transformation.h"
+	<ostream>
+	<array>
+	"user_interface.h"
+	"transformation.h"
+
+1675619977 c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\user_interface.h
+	<string>
+	"pieces_set.h"
+	"board.h"
+
+1675891502 source:c:\users\jason\documents\ensai cours\2a\c++\tp4_jason_torres\couleur.cpp
+	"couleur.h"
+
